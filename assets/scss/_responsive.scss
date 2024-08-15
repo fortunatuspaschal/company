@@ -1236,6 +1236,17 @@ Responsive For Mobile & Tablet Devices
 	.about_funfact_info .icon_globe {
 		display: none;
 	}
+	.about_funfact_info {
+		width: 100%;
+		padding: 30px;
+	}
+	.about_funfact_info .about_funfact_counter {
+		gap: 20px;
+		margin-top: 30px;
+	}
+	.about_funfact_info .about_funfact_counter .counter_value {
+		font-size: 30px;
+	}
 	.feature_partners_section::before {
 		display: none;
 	}
@@ -1293,17 +1304,8 @@ Responsive For Mobile & Tablet Devices
 	.service_section .shape_image_3, .process_technology_review_section .shape_image_4, .faq_section .shape_image_1, .about_and_case_section .shape_image_1, .contact_section .shape_image_3, .footer_layout_2 .shape_image_1 {
 		top: -9px;
 	}
-	.about_funfact_info {
-		width: 100%;
-		padding: 30px;
-	}
-	.about_funfact_info .about_funfact_counter {
-		gap: 20px;
-		margin-top: 30px;
-	}
-	.about_funfact_info .about_funfact_counter .counter_value {
-		font-size: 30px;
-	}
+	
+	
 	.process_technology_review_section {
 		padding: 100px 0;
 	}
